@@ -1,12 +1,12 @@
 # K8s Lab — MicroK8s + OpenEBS/ZFS + MinIO + Kasten K10
 
-> Inspired by the original work of **[tdewin](https://gist.github.com/tdewin)** —
-> thank you for sharing your MicroK8s + Kasten setup script at
+> Inspired by the original work of **[tdewin](https://gist.github.com/tdewin)**. 
+> Thank you for sharing your MicroK8s + Kasten setup script at
 > https://gist.github.com/tdewin/46d0c5e81481fe91f5c84184cb21e949
 
 A single script that builds a complete, ready-to-demo Kubernetes lab on a single Ubuntu VM.
 It installs MicroK8s, ZFS-backed persistent storage via OpenEBS, MinIO as an S3 target,
-three demo workloads, and Kasten K10 for backup and restore — all in one unattended run.
+three demo workloads, and Kasten K10 for backup and restore, all in one unattended run.
 
 ---
 
