@@ -1,4 +1,3 @@
-# k8slab-setup
 # K8s Lab — MicroK8s + OpenEBS/ZFS + MinIO + Kasten K10
 
 > Inspired by the original work of **[tdewin](https://gist.github.com/tdewin)** —
